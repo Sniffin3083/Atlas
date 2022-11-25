@@ -100,12 +100,6 @@ class _MyHomePageState extends State<MyHomePage> {
         title: Text(
           'Personal Expenses',
         ),
-        actions: <Widget>[
-          IconButton(
-            icon: Icon(Icons.settings),
-            onPressed: () => _startAddNewTransaction(context),
-          ),
-        ],
       ),
       body: SingleChildScrollView(
         child: Column(
