@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.sniffin.personal_expenses">
    <application
-        android:label="Atlus"
+        android:label="Atlas"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
