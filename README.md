@@ -1,16 +1,22 @@
-# personal_expenses_final
+# Atlas
+An app that tracks your personal finances developed using the Flutter framework.
 
-A new Flutter project.
+## About the App
+This app is developed using the Flutter framework and is developed for iOS and Android. The app will also work on Window, MacOS, Linux, and your web browser but your results may vary.
 
-## Getting Started
+## How to Run on an Emulator
+### iOS
+Go to this link for step instructions on how to run the app on an iOS emulator:
 
-This project is a starting point for a Flutter application.
+### Android
+Go to this link for step instructions on how to run the app on an Android emulator:
 
-A few resources to get you started if this is your first Flutter project:
+## How to Run on an Actual iOS or Android
+### iOS
+Go to this link for step instructions on how to run the app on an iOS device:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Android
+Go to this link for step instructions on how to run the app on an Android device:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Conclusion
+This app was built as a test of my abilities as an early Flutter developer. I hope you all find it easy to use!
